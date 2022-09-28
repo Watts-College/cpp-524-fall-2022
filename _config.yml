@@ -29,21 +29,6 @@ github_info:
 
 # header color set at assets/css/custom.css under default_nav and footer background-color
 
-header:
-- title: Syllabus
-  url: 
-- title: Course Schedule
-  url: schedule/
-- title: Yellowdig
-  url: 'https://canvas.asu.edu/courses/99226/assignments/2552477'
-- title: Resources 
-  url: resources/
-- title: Review Sessions 
-  url: review/
-- title: Get Help
-  url: help/
-
-
 
 
 
